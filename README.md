@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 # How to become a master developer
 
-- Goal: Web developer ✔
-- Who: full stack ❤
+- Goal: AI developer ✔
+- Who: My name is Hoang ❤
 
 Happy Coding! 😘
 
