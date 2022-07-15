@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # How to become a master developer
 
 - Goal: AI developer ✔
@@ -9,4 +9,3 @@ Happy Coding! 😘
 =======
 # Projects
 How to become a master developer 
->>>>>>>
